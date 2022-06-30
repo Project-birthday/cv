@@ -38,19 +38,20 @@ body {
 } */
 .first-cloud{
       position: absolute;
-      right: 300px;
+      right: 25%;
       top: 50px;
 }
 
 .second-cloud{
       position: absolute;
-      left: 250px;
-      bottom: 300px;
+      left: 20%;
+      bottom: 50%;
 }
 
 .mountain{
       position: relative;
       bottom: 60px;
+      width: 50%;
 }
 
 .skill-row{
